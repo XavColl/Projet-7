@@ -1,0 +1,10 @@
+@import './scss/vars.scss';
+
+*{
+   font-family : $font;
+   color : #FF6060;
+}
+
+@import './scss/Header.scss';
+@import './scss/Rectangle.scss';
+@import './scss/Gallery.scss';
